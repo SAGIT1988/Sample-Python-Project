@@ -8,7 +8,7 @@ List2.sort()
 print("The sorted list is",List2)
 
 List3= []
-List3=l=List1.copy()
+List3=List1.copy()
 print("List 3",List3)
 
 indexvalue = List2[2:6]
@@ -18,3 +18,7 @@ a=10
 b=15
 c=a+b
 print("addtion is ",c)
+
+List4= []
+list4=List2.copy()
+print("list 4:",list4)
