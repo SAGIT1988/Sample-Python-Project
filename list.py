@@ -1,5 +1,5 @@
 
-import OS
+
 List1=[8,5,9,3,10]
 List1.reverse()
 print ("reversed list is",List1)
