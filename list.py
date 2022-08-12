@@ -14,6 +14,10 @@ print("List 3",List3)
 indexvalue = List2[2:6]
 print("The index values are:",indexvalue)
 
+List4= []
+List4=l=List2.copy()
+print("List 4",List3)
+
 a=10
 b=15
 c=a+b
